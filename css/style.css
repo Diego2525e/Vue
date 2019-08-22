@@ -1,0 +1,15 @@
+img{
+    width: 300px;
+}
+
+.product {
+    display: flex;
+    flex-flow: wrap;
+    padding: 1rem;
+}
+
+ body {
+    font-family: tahoma;
+    color:#282828;
+    margin: 0px;
+}
